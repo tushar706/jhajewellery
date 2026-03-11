@@ -95,6 +95,6 @@ git push -u origin main
 ---
 
 ## 📞 Contact Info
-- WhatsApp: +91 79822 72872
+- WhatsApp: +91 xxxx
 - Address: Plot 12, Sector 18, Noida, Delhi NCR - 201301
 - Email: hello@jhajewellery.com
